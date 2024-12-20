@@ -1,0 +1,30 @@
+{
+  "name": "diet-website-api",
+  "version": "1.0.0",
+  "description": "a simple API for imitating the diet websites using Express js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsany-adel/Diet-website-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsany-adel/Diet-website-api/issues"
+  },
+  "homepage": "https://github.com/arsany-adel/Diet-website-api#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
