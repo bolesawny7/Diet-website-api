@@ -1,0 +1,1 @@
+export type WorkoutType = "weight loss" | "muscle gain";
