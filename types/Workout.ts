@@ -1,12 +1,16 @@
 import {WorkoutType} from "./WorkoutType";
-import {Meal} from "./Meal"
+import {DayMeals} from "./DayMeals"
 
 export type Workout = {
     id: number,
     clientId: number,
     coachId: number,
     objective: WorkoutType,
-    breakfast: Meal,
-    lunch: Meal,
-    dinner: Meal
+    saturday: DayMeals;
+    sunday: DayMeals;
+    monday: DayMeals;
+    tuesday: DayMeals;
+    wednesday: DayMeals;
+    thursday: DayMeals;
+    friday: DayMeals;
 }
