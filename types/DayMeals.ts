@@ -5,3 +5,4 @@ export type DayMeals = {
     lunch: Meal,
     dinner: Meal
 };
+

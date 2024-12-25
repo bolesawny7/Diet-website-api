@@ -6,3 +6,4 @@ export type Meal = {
     ingredients: Ingredient[],
     recipe: string
 };
+

@@ -132,5 +132,9 @@ dist
 # Env
 .env
 
+<<<<<<< HEAD
 # Plans
+=======
+# Planning
+>>>>>>> origin/main
 plan.txt

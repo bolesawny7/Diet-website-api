@@ -14,3 +14,4 @@ export type Workout = {
     thursday: DayMeals;
     friday: DayMeals;
 };
+

@@ -1,5 +1,6 @@
 import { Gender } from "./Gender";
 
+
 export type Client = {
     id: number,
     name: string,
@@ -7,3 +8,4 @@ export type Client = {
     age: number,
     assignedCoachId: number
 };
+
