@@ -1,10 +1,10 @@
-import express from "express";
-import clients from "../database/Clients.js";
-import { Client } from "../types/Client.js";
+import express, { NextFunction } from "express";
+import clients from "../database/Clients";
+import { Client } from "../types/Client";
 
 const clientRouter = express.Router();
 
-clientRouter.get("/:id", (req, res) => {
+clientRouter.get("/:id", (req:any, res: any ) => {
     const requiredId: number = Number(req.params.id);
 
     for (let client of clients) {

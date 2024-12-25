@@ -1,5 +1,5 @@
 import express from "express";
-import workouts from "../database/Workout.js";
+import workouts from "../database/Workout";
 import { Workout } from "../types/Workout";
 import { DayMeals } from "../types/DayMeals";
 
