@@ -1,0 +1,59 @@
+Person {
+    id : number
+    name : string
+    gender : gender
+    age : number
+}
+
+Client : Person {
+    assigned coach : number (id)
+}
+
+Coach : Person {
+    clients[] : number[] (id)
+}
+
+Workout {
+    id : number
+    client id : number
+    coach id : number
+    objective : WorkoutType
+    saturday: DayMeals
+    sunday: DayMeals,
+    monday: DayMeals,
+    tuesday: DayMeals,
+    wednesday: DayMeals,
+    thursday: DayMeals,
+    friday: DayMeals
+}
+
+DayMeals {
+    breakfast: meal,
+    lunch: meal,
+    dinner: meal
+}
+
+Meal {
+    carbohyrates amount : number
+    name : string
+    Ingredients[] : ingredient
+    recipe description : string
+}
+
+Ingredient {
+    name : string
+    amount : number
+}
+
+
+Enums:
+
+Gender {
+    male, female
+}
+
+Objective {
+    weight loss, muscle gain
+}
+
+

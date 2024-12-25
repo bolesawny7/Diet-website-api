@@ -1,0 +1,419 @@
+{
+    "id": 1,
+    "coachId": 2,
+    "clientId": 2,
+    "type": "weight loss",
+    "saturday": {
+        "breakfast" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "lunch" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "dinner" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        }
+    },
+    "sunday": {
+        "breakfast" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "lunch" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "dinner" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        }
+    },
+    "monday": {
+        "breakfast" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "lunch" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "dinner" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        }
+    },
+    "tuesday": {
+        "breakfast" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "lunch" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "dinner" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        }
+    },
+    "wednesday": {
+        "breakfast" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "lunch" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "dinner" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        }
+    },
+    "thursday": {
+        "breakfast" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "lunch" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "dinner" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        }
+    },
+    "friday": {
+        "breakfast" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "lunch" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        },
+        "dinner" : {
+            "name": "eggs",
+            "carbohydrates": 530,
+            "ingredients": [
+                {
+                    "name": "egg",
+                    "amount": 1
+                },
+                {
+                    "name": "bread",
+                    "amount": 1
+                },
+                {
+                    "name": "cheese",
+                    "amount": 1
+                }
+            ],
+            "recipe": "heat the egg for 15 mins then mix it with cheese and put them in the bread"
+        }
+    }
+}
